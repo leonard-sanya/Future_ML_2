@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+spacy
+nltk
+tqdm
+torch
+plotly
+emoji
+contractions
+# re 
