@@ -30,7 +30,7 @@ And finally run:
 -       python main.py
 
 ## Results
-<img src="https://github.com/leonard-sanya/Future_ML_2/blob/main/output_images/confusion_matrix.png" width="720" height="480"/>
+<img src="https://github.com/leonard-sanya/Future_ML_2/blob/main/output_images/confusion_matrix.png" width="840" height="480"/>
 
 ## License
 
